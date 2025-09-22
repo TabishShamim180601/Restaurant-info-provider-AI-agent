@@ -3,7 +3,7 @@
 3. For a provided question, the RAG pipeline embeds the question as a vector, fetches 5 similar vectors from the vector database and passes the embedded question and 5 vectors as context to the large language model.
 4. To run the application:
    A) Create a virtual environment  
-   B) pip install -r requirements
+   B) pip install -r requirements  
    C) run "python main.py"  
    
    
